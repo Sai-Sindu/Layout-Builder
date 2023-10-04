@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.header-card {
+  background-color: #cbd5e1;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.header-title {
+  color: #475569;
+  font-size: 35px;
+  text-align: center;
+}
